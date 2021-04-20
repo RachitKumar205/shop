@@ -1,0 +1,22 @@
+form {
+    width: 50%;
+    margin-left: 25%;
+    border-color:black;
+    vertical-align: middle;
+    margin-top: 10%;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 4%;
+}
+
+html, body {
+    overflow-y: hidden;
+    height: 100%;
+
+}
+
+div {
+    width: 100%;
+}
+
